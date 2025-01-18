@@ -34,6 +34,7 @@ Donut Chart for satisfaction scores across age groups.
 Percentage distribution of weekday vs. weekend visits.
 
 **4. Key Insights and Conclusion**
+
 High Patient Volume on Weekdays: 71% of visits occurred on weekdays, highlighting potential resource strain during these periods.
 Balanced Gender Distribution: Nearly equal representation of male and female patients.
 Wait Time Trends: Certain races and age groups experience longer average wait times, suggesting areas for improvement.
