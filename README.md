@@ -23,22 +23,32 @@ Referrals: Departments referred to post-consultation.
 **KPIs:**
 
 Total Patients: 2,517 patients recorded.
+
 Administrative Schedule: 49.07% of visits.
+
 Non-Administrative Visits: 50.93%.
+
 Average Satisfaction Score: 5.47/10.
+
 Average Wait Time: 35.35 minutes.
 
 **Visuals:**
 
 Bar and Pie Charts for patient demographics (age groups, gender, and race).
+
 Line Chart for wait times by age and race.
+
 Donut Chart for satisfaction scores across age groups.
+
 Percentage distribution of weekday vs. weekend visits.
 
 **4. Key Insights and Conclusion**
 
 High Patient Volume on Weekdays: 71% of visits occurred on weekdays, highlighting potential resource strain during these periods.
+
 Balanced Gender Distribution: Nearly equal representation of male and female patients.
+
 Wait Time Trends: Certain races and age groups experience longer average wait times, suggesting areas for improvement.
+
 Satisfaction Patterns: Patients in middle age groups reported slightly higher satisfaction scores.
 
