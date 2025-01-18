@@ -1,6 +1,7 @@
 # Healthcare-Data-Insights-Dashboard
 
 **1. Objective**
+
 The project aims to analyze and visualize patient emergency visit data to identify key trends and insights. The goal is to assist hospital administrators in optimizing patient care, monitoring satisfaction, and reducing wait times by leveraging data-driven insights.
 
 **2. Dataset**
